@@ -1,0 +1,6 @@
+C:\Go\bin>go get github.com/go-delve/delve/cmd/dlv
+
+C:\Go\bin>dlv version
+Delve Debugger
+Version: 1.5.0
+Build: $Id: ............................................
