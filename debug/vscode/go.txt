@@ -4,3 +4,8 @@ C:\Go\bin>dlv version
 Delve Debugger
 Version: 1.5.0
 Build: $Id: ............................................
+
+
+
+＊注意＊
+標準入力は無理？
