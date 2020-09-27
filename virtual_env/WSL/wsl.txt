@@ -1,0 +1,9 @@
+「Windowsの機能の有効化または無効化」をクリックしてダイアログを開き、
+「Windows Subsystem for Linux」をチェック
+（最近はLinux ～に名前が変わっている）
+
+再起動
+
+Microsoft Storeで「WSL」を検索しインストール
+
+ユーザーとパスワードを入力し使用可能
