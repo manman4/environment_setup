@@ -3,10 +3,17 @@ docker コマンド
 docker commit -m コメント コンテナID イメージ名：タグ名　　　：コンテナからイメージ作成
 docker cp ./xxx yyy:/
 docker exec -it コンテナID /bin/bash                       ：起動中のコンテナにログイン
-
-
+docker images
+docker load < イメージ.tgz
 docker ps -a                                               ：すべてのコンテナの表示
+docker pull
 docker rm コンテナID                                        ：コンテナの削除
+docker rmi
+docker run 
+docker save
+docker search
 docker start -i コンテナID                                  ：コンテナの起動
-  
+docker stop コンテナID                                      ：コンテナの停止
+docker tag
+
 Ctrl p q 　　　　　　　　　　　　　　　　　　　　　　　　　　　 ：コンテナから抜ける
