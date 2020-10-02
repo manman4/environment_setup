@@ -5,7 +5,8 @@ docker cp ./xxx yyy:/
 docker exec -it コンテナID /bin/bash                       ：起動中のコンテナにログイン
 
 
-
+docker ps -a                                               ：すべてのコンテナの表示
+docker rm コンテナID                                        ：コンテナの削除
 docker start -i コンテナID                                  ：コンテナの起動
-
+  
 Ctrl p q 　　　　　　　　　　　　　　　　　　　　　　　　　　　 ：コンテナから抜ける
