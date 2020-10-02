@@ -12,6 +12,10 @@
 
 - sourcetree
 
+## editor
+
+- vscode
+
 ## virtual env
 
 - WSL
