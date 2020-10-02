@@ -16,4 +16,4 @@ docker コマンド
   docker stop コンテナID                                      ：コンテナの停止
   docker tag イメージID > 保存先　　　　　　　　　　　　　　　　 ：イメージの保存
 
-Ctrl p q 　　　　　　　　　　　　　　　　　　　　　　　　　　　 ：コンテナから抜ける
+  Ctrl p q 　　　　　　　　　　　　　　　　　　　　　　　　　　　 ：コンテナから抜ける
