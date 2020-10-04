@@ -3,3 +3,11 @@ AWS
 1.AWSアカウント作成
 
 https://portal.aws.amazon.com/billing/signup
+
+2.ログイン
+
+3.IAM設定
+
+4.MFA
+
+5.IAMユーザ設定
