@@ -11,3 +11,5 @@ https://portal.aws.amazon.com/billing/signup
 4.MFA
 
 5.IAMユーザ設定
+
+6.請求アラート
