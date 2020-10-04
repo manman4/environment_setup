@@ -1,0 +1,5 @@
+AWS
+
+1.AWSアカウント作成
+
+https://portal.aws.amazon.com/billing/signup
