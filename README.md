@@ -27,3 +27,9 @@
 ## cloud
 
 - AWS
+
+## lang
+
+- go
+
+- ruby / ruby on rails
