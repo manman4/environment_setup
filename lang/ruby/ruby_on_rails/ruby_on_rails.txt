@@ -1,5 +1,8 @@
 Windows10 へインストール
 
+(参考）
+https://railsguides.jp/getting_started.html
+
 1. 準備
 　Git, Node.js, yarn, Ruby をいれておく
 
