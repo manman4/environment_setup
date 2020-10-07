@@ -32,4 +32,4 @@
 
 - go
 
-- ruby / ruby on rails
+- ruby / Ruby on Rails
