@@ -1,0 +1,43 @@
+WordPressのインストールからDBの準備まで
+
+
+参考
+http://memotama.hatenablog.com/entry/2015/08/26/103658
+
+1.WordPressのインストール
+$ sudo yum -y update
+$ sudo amazon-linux-extras install php7.2 -y
+Installing php-pdo, php-fpm, php-mysqlnd, php-cli, php-json
+...
+Complete!
+$ sudo chkconfig httpd on
+$ sudo service httpd start
+Redirecting to /bin/systemctl start httpd.service　　　　ダメっぽい
+$ httpd -v　　　　　　　　　　　　　　　　　　　　　　　 念のため確認
+Server version: Apache/2.4.46 ()
+Server built:   Aug 24 2020 18:54:20
+$ sudo systemctl start httpd　　　　　　　　　　　　　　 CentOS 7だとこれでで起動？
+$ cd
+$ wget http://ja.wordpress.org/latest-ja.tar.gz ~/
+--2020-10-10 06:41:15--  http://ja.wordpress.org/latest-ja.tar.gz
+...
+Downloaded: 1 files, 13M in 2.1s (6.11 MB/s)
+$ tar zxvf ./latest-ja.tar.gz
+wordpress/
+...
+wordpress/wp-links-opml.php
+$ ls　　　　　　　　　　　　　　　　　　　　　　　　　　 念のため確認
+latest-ja.tar.gz  wordpress  work
+$ sudo cp -r ./wordpress/* /var/www/html/
+$ sudo chown apache:apache -R /var/www/html
+
+
+
+2.DBの準備
+$ mysql -h ＜＞ -u admin -p＜＞
+
+MySQL [(none)]> create database wordpress;
+Query OK, 1 row affected (0.00 sec)
+
+MySQL [(none)]> quit
+Bye
