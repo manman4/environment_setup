@@ -1,0 +1,8 @@
+EC2からRDSへ接続
+
+1.sudo yum -y install mysql
+
+2.mysql -h <エンドポイント> -u admin -p<パスワード>　　　　pとパスワードの間は離さない
+
+3.確認
+MySQL [(none)]> show databases;
