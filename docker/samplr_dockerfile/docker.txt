@@ -1,0 +1,19 @@
+コンテナの起動等
+
+[ec2-user@ip-xxxx docker-test]$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                       PORTS               NAMES
+aexxxxxxxxxx        docker-test         "apachectl -D FOREGR…"   30 minutes ago      Exited (137) 9 minutes ago                       docker-test
+[ec2-user@ip-xxxx docker-test]$ sudo docker start ae
+ae
+[ec2-user@ip-xxxx docker-test]$ sudo docker exec -it docker-test /bin/bash
+root@aexxxxxxxxxx:/# cat /var/www/html/index.html
+First Container
+root@aexxxxxxxxxx:/# exit
+exit
+[ec2-user@ip-xxxx docker-test]$ sudo docker stop docker-test
+docker-test
+[ec2-user@ip-xxxx docker-test]$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                       PORTS               NAMES
+aexxxxxxxxxx        docker-test         "apachectl -D FOREGR…"   33 minutes ago      Exited (137) 6 seconds ago                       docker-test
+[ec2-user@ip-xxxx docker-test]$
+
