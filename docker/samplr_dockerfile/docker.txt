@@ -1,4 +1,4 @@
-コンテナの起動等
+(EC2で)コンテナの起動等
 
 [ec2-user@ip-xxxx docker-test]$ sudo docker ps -a
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                       PORTS               NAMES
