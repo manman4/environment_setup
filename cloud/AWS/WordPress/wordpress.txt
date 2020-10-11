@@ -16,7 +16,7 @@ Redirecting to /bin/systemctl start httpd.service　　　　ダメっぽい
 $ httpd -v　　　　　　　　　　　　　　　　　　　　　　　 念のため確認
 Server version: Apache/2.4.46 ()
 Server built:   Aug 24 2020 18:54:20
-$ sudo systemctl start httpd　　　　　　　　　　　　　　 CentOS 7だとこれでで起動？
+$ sudo systemctl start httpd　　　　　　　　　　　　　　 CentOS 7, RHELだとこれで起動
 $ cd
 $ wget http://ja.wordpress.org/latest-ja.tar.gz ~/
 --2020-10-10 06:41:15--  http://ja.wordpress.org/latest-ja.tar.gz
