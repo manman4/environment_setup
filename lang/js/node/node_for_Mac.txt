@@ -4,7 +4,7 @@ https://github.com/hokaccha/nodebrew
 
 1
 $ curl -L git.io/nodebrew | perl - setup
-ß
+
 2 path
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 
