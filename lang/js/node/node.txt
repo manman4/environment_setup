@@ -2,3 +2,35 @@
 
 https://github.com/hokaccha/nodebrew
 
+1
+$ curl -L git.io/nodebrew | perl - setup
+ß
+2 path
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+
+3
+$ nodebrew install-binary <version> 
+
+version のところは
+stable
+latest
+
+4 確認
+$ nodebrew ls
+
+5
+nodebrew use <version> 
+
+6
+node -v
+
+7 Mac の最新版で
+$ touch .zshrc
+$ vi .zshrc
+編集してpathを記述
+
+８
+ターミナル→環境設定→プロファイル→シェル
+-zshをコマンド実行
+
+
