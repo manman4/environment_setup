@@ -28,6 +28,14 @@
 
 - AWS
 
+## OS
+
+- Mac
+
+- Windows
+
+- Linux
+
 ## lang
 
 - go
