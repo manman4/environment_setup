@@ -6,8 +6,12 @@
 
 参考：https://belltree.life/git-file-system/
 
+1. 設定変更
+
 Windows　Git Bash で　Mac はターミナルで
 
 git config core.filemode false
+
+2. 確認
 
 git config --list | grep core.filemode
