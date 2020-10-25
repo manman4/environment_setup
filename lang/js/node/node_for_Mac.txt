@@ -24,10 +24,13 @@ nodebrew use <version>
 6
 node -v
 
-7 Mac の最新版で
+7 Mac の最新版(catalina)で
 $ touch .zshrc
 $ vi .zshrc
 編集してpathを記述
+
+注意
+WiMAXとか32bit版の機器は使えなくなる
 
 8
 ターミナル→環境設定→プロファイル→シェル
