@@ -4,9 +4,9 @@
 
 - [Graphillion](https://github.com/takemaru/graphillion/wiki)
 
-用途　グラフがらみ
+用途：グラフがらみ
 
-OS   Linux, Mac
+OS：Linux, Mac
 
 - matplotlib
 
