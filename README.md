@@ -38,6 +38,10 @@
 
 ## lang
 
+- Crystal
+
 - go
+
+- Python
 
 - ruby / Ruby on Rails
