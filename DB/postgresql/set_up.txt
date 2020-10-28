@@ -1,0 +1,12 @@
+参考
+https://www.dbonline.jp/postgresql/install
+
+1. ダウンロード
+https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=55
+
+2. インストール
+
+3. pathを通す
+
+4. 確認
+psql --version
