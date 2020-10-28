@@ -28,6 +28,10 @@
 
 - AWS
 
+## DB
+
+- PostgreSQL
+
 ## OS
 
 - Mac
@@ -35,10 +39,6 @@
 - Windows
 
 - Linux
-
-## DB
-
-- PostgreSQL
 
 ## lang
 
