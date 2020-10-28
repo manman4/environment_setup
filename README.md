@@ -36,6 +36,10 @@
 
 - Linux
 
+## DB
+
+- PostgreSQL
+
 ## lang
 
 - Crystal
