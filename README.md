@@ -28,6 +28,8 @@
 
 - AWS
 
+- Firebase
+
 ## DB
 
 - PostgreSQL
