@@ -18,3 +18,7 @@ git config --list | grep core.filemode
 
 
 ## GitHub等のパスワードを変更したとき
+
+キーチェーンアクセスを開きSourtreeで検索し対象のアカウントを削除
+
+pushのときにパスワードを入れる
