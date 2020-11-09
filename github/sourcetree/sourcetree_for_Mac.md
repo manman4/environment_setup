@@ -15,3 +15,6 @@ git config core.filemode false
 2. 確認
 
 git config --list | grep core.filemode
+
+
+## GitHub等のパスワードを変更したとき
