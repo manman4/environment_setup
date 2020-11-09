@@ -8,3 +8,6 @@ Sourcetreeでaddし、一度（空でもいいので）pushする
 例えば、Githubにあげていないファイルがローカルに残っている場合
 
 この方法は安全。
+
+
+GitHub等のpasswordを変更したとき
