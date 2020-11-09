@@ -1,4 +1,4 @@
-- Pari/GP
+- PARI/GP
     
 Windows の場合背景がdarkだとコマンドラインも暗くなる。
 
