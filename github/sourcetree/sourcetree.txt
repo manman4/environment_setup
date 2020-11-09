@@ -1,7 +1,7 @@
 
 （Sourcetree)
 
-一度リモートリポジトリとローカルのソースのやりとりがなくなった場合
+1.一度リモートリポジトリとローカルのソースのやりとりがなくなった場合
 
 Sourcetreeでaddし、一度（空でもいいので）pushする
 
@@ -10,6 +10,10 @@ Sourcetreeでaddし、一度（空でもいいので）pushする
 この方法は安全。
 
 
-GitHub等のpasswordを変更したとき
+2.GitHub等のpasswordを変更したとき
 
-Sourcetreeで何かしなくても、pull可能
+Sourcetreeで何かしなくても、pull可能だが、pushはこのままだとできない
+
+pushするには、～\AppData\Local\Atlassian\SourceTreeにある「passwd」ファイルを消去しpush
+
+その際passwd入力をすればよい。このとき自動的に「passwd」ファイルが作成される
