@@ -11,3 +11,5 @@ Sourcetreeでaddし、一度（空でもいいので）pushする
 
 
 GitHub等のpasswordを変更したとき
+
+Sourcetreeで何かしなくても、pull可能
