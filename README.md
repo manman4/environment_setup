@@ -53,3 +53,5 @@
 - ruby / Ruby on Rails
 
 ## Soft
+
+- PARI/GP, Sage
