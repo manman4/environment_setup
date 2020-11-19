@@ -28,6 +28,8 @@
 
 - AWS
 
+- Azure
+
 - Firebase
 
 ## DB
