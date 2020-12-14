@@ -1,1 +1,3 @@
-Create File Menu
+Create File Menu      ファイル作成等
+
+FileMerge             ファイル比較
