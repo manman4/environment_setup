@@ -16,6 +16,11 @@ git config core.filemode false
 
 git config --list | grep core.filemode
 
+※. 上記方法より、
+
+ソースコードに全てファイルやモデルを上げていて、gitignoreされているものがないなら、
+
+一からgithubを引っ張ってくる方が楽かもしれない
 
 ## GitHub等のパスワードを変更したとき
 
