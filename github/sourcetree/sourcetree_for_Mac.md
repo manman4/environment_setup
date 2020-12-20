@@ -22,11 +22,3 @@ git config --list | grep core.filemode
 キーチェーンアクセスを開きSourtreeで検索し対象のアカウントを削除
 
 pushのときにパスワードを入れる
-
-## SSH
-
-2021年○月からパスワードがダメなので
-
-https://qiita.com/ozkknnt/items/054746c687936200a281
-
-を参考にSSH
