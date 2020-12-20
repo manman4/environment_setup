@@ -16,7 +16,7 @@ git config core.filemode false
 
 git config --list | grep core.filemode
 
-※. 上記方法より、
+※ 上記方法よりも、
 
 ソースコードに全てファイルやモデルを上げていて、gitignoreされているものがないなら、
 
