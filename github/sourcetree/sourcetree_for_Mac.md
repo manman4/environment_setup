@@ -6,7 +6,7 @@
 
 参考：https://belltree.life/git-file-system/
 
-1. 設定変更
+1. 設定変更 (重要　Windows、Mac両方作業必要)
 
 Windows　Git Bash で　Mac はターミナルで
 
@@ -28,4 +28,3 @@ git config --list | grep core.filemode
 
 pushのときにパスワードを入れる
 
-(じっけんWindows より)
