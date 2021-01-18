@@ -28,3 +28,13 @@ git config --list | grep core.filemode
 
 pushのときにパスワードを入れる
 
+## gitignoreについて
+
+Global がデフォルトだが、このレポジトリのみの方が無難
+
+もし、間違ってGlobalで無視してしまった場合
+
+.gitignore_global
+
+を編集する
+
