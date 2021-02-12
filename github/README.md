@@ -10,8 +10,8 @@ GitHub アカウントに登録されているメールアドレスが非公開�
 
 2. あればリセット
 
-git config --global --unset user.email
+　　git config --global --unset user.email
 
 3. noreplyのメールアドレスを設定します。
 
-git config --global --add user.email ID+名前@users.noreply.github.com
+　　git config --global --add user.email ID+名前@users.noreply.github.com
