@@ -28,9 +28,9 @@ GitHub アカウントに登録されているメールアドレスが非公開�
 
 3. GitHubで既定のブランチを変更
 
-リポジトリのSettings→左メニューBranches→Default branch
+　　リポジトリのSettings→左メニューBranches→Default branch
 
-masterとなっているところをmainに変更して、Updateを押す
+　　masterとなっているところをmainに変更して、Updateを押す
 
 4. masterブランチの削除
 
