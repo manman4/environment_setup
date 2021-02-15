@@ -16,7 +16,7 @@ GitHub アカウントに登録されているメールアドレスが非公開�
 
 　　git config --global --add user.email ID+名前@users.noreply.github.com
 
-## masterからmainへ変更
+# masterからmainへ変更
 
 1. ローカルブランチを改名
 
