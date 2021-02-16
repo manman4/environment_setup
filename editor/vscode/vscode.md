@@ -7,6 +7,10 @@ code-eol
 Ricty Diminished
 を設定のFont Familyに指定してやる
 
+macの場合のフォントのダウンロードは例えば、以下を参照
+
+https://hajipro.com/local-development-environment-mac/ricty-diminished
+
 ## vscode 立ち上げ
 
 - Windows
