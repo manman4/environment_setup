@@ -38,3 +38,16 @@ Global がデフォルトだが、このレポジトリのみの方が無難
 
 を編集する
 
+## SSH
+
+今後を考えると、SourcetreeもパスワードでなくSSHで接続すべき
+
+1. Githubにkeyを登録
+
+2. BitbucketにSSH鍵を登録する　https://qiita.com/YoshiISHIGAMI/items/b7d045710d8319f1a3e4
+
+Terminalを開いて以下のコマンドを叩く
+
+pbcopy < ~/.ssh/id_rsa.pub
+
+セキュリティ > SSH鍵 をクリックしページに移動し、ページにある「SSH 鍵を追加」をクリックし、label とkeyを追加
