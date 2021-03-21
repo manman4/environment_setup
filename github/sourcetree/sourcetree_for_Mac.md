@@ -57,3 +57,4 @@ pbcopy < ~/.ssh/id_rsa.pub
 Sourcetreeの設定の高度な設定のConfigファイルを編集を押下
 
 url がSSHになっていなかったら、githubのRepogitryのSSHに変えておく。
+
