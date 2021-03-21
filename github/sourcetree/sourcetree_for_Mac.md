@@ -58,5 +58,5 @@ Sourcetreeの設定の高度な設定のConfigファイルを編集を押下
 
 url がSSHになっていなかったら、githubのRepogitryのSSHに変えておく。
 
-(上記はSourcetree上で行う場合だが、.gitフォルダ内のconfigのurlをかえる方がはやいかも)
+(上記はSourcetree上で行う場合だが、.gitフォルダ内のconfigのurlをかえる方がはやいかも... 同時にpushurlを追加する必要があるかも)
 
