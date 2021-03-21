@@ -51,3 +51,9 @@ Terminalを開いて以下のコマンドを叩く
 pbcopy < ~/.ssh/id_rsa.pub
 
 セキュリティ > SSH鍵 をクリックしページに移動し、ページにある「SSH 鍵を追加」をクリックし、label とkeyを追加
+
+3. Repogitry　https://tks2.co.jp/2021/01/18/github-ssh/
+
+Sourcetreeの設定の高度な設定のConfigファイルを編集を押下
+
+url がSSHになっていなかったら、githubのRepogitryのSSHに変えておく。
