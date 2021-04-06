@@ -34,3 +34,5 @@ Visual Studio Codeを起動
 拡張機能　Python for VSCode をインストール
 
 コマンドパレットでjupter: cretate new blank notebookで新規作成できる。　（ググると、違うコマンドすぐにヒットする）
+
+
