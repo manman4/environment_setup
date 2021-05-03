@@ -1,0 +1,9 @@
+備忘録用
+
+− pg_userテーブルのusenameを参照
+
+select usename from pg_user;
+
+- ロールの追加の例
+
+CREATE ROLE name [ WITH ] LOGIN PASSWORD 'password'
