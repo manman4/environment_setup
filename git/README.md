@@ -11,4 +11,4 @@ git stash save
 git pull
 
 
-git pop
+git stash pop
