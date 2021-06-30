@@ -10,6 +10,9 @@ Ricty Diminished
 　　　macの場合のフォントのダウンロードは例えば、以下を参照
 
 　　　https://hajipro.com/local-development-environment-mac/ricty-diminished
+   
+- 自動
+GitHub Copilot
 
 ## vscode 立ち上げ
 
