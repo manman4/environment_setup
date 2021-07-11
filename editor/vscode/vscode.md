@@ -1,11 +1,9 @@
 ## 便利な拡張機能
 
 - 改行　　
-　　　　　　　
 code-eol
 
 - プログラミングフォント
-
 Ricty Diminished
 を設定のFont Familyに指定してやる
 
@@ -14,11 +12,9 @@ Ricty Diminished
 　　　https://hajipro.com/local-development-environment-mac/ricty-diminished
    
 - 自動
-
 GitHub Copilot
 
 - xxx
-
 live server
 
 ## vscode 立ち上げ
