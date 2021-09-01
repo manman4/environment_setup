@@ -35,10 +35,16 @@ Visual Studio Codeを起動
 
 "Shell Command: Install 'code' command in PATH"を選択
 
+## terminal
+
+- Mac
+
+control + shift　+　` 
+
 ## jupyter notebookを使う
 
 拡張機能　Python for VSCode をインストール
 
-コマンドパレットでjupter: cretate new blank notebookで新規作成できる。　（ググると、違うコマンドすぐにヒットする）
+コマンドパレットでjupyter: cretate new blank notebookで新規作成できる。　（ググると、違うコマンドすぐにヒットする）
 
 
