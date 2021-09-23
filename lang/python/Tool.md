@@ -12,6 +12,12 @@ OS：Linux, Mac
 
 - matplotlib
 
+- folium  マップ表示
+
+- japanmap  白地図
+
+- altair  グラフ
+
 ## 画像処理
 
 - OpenCV
