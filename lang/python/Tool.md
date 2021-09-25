@@ -16,6 +16,8 @@ OS：Linux, Mac
 
 - japanmap  白地図
 
+- pyplot  グラフ
+
 - altair  グラフ
 
 ## 画像処理
