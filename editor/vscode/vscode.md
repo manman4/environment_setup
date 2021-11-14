@@ -3,7 +3,7 @@
 - 改行　　
 code-eol
 
-- プログラミングフォント
+- プログラミングフォント　　
 Ricty Diminished
 を設定のFont Familyに指定してやる
 
@@ -11,11 +11,14 @@ Ricty Diminished
 
 　　　https://hajipro.com/local-development-environment-mac/ricty-diminished
    
-- 自動
+- 自動　　
 GitHub Copilot
 
-- xxx
+- xxx　　
 live server
+
+- EJS　　
+EJS language support
 
 ## vscode 立ち上げ
 
