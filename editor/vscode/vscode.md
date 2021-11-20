@@ -20,6 +20,10 @@ live server
 - EJS　　
 EJS language support
 
+## 便利な設定
+
+"editor.guides.bracketPairs": true
+
 ## vscode 立ち上げ
 
 - Windows
