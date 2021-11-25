@@ -48,3 +48,8 @@ GitHub アカウントに登録されているメールアドレスが非公開�
 　　ローカルリポジトリ名もRename
   
 　　対象ディレクトリ内の .git > configを変更
+
+
+# forkリポジトリ削除
+
+1. Settings Options の一番下のDelete this repositoryから削除
