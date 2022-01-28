@@ -1,5 +1,5 @@
 Create File Menu      ファイル作成等
 
-FileMerge             ファイル比較
+FileMerge             ファイル比較     xcodeを入れるのが嫌なら、CompareMerge2が軽くて良い
 
 iTerm2                ターミナル
