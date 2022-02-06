@@ -3,14 +3,14 @@
 - 改行　　
 code-eol
 
-- プログラミングフォント
+- プログラミングフォント　
 Ricty Diminished　を設定のFont Familyに指定してやる
 
 　　　macの場合のフォントのダウンロードは例えば、以下を参照
 
 　　　https://hajipro.com/local-development-environment-mac/ricty-diminished
    
-- 自動
+- 自動　
 GitHub Copilot
 
 　　　自動生成されたコードを選択したいときは　Tab 
