@@ -18,7 +18,7 @@ GitHub Copilot
 - xxx　
 live server
 
-- EJS
+- EJS　
 EJS language support
 
 ## 便利な設定
