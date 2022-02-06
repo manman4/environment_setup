@@ -14,6 +14,8 @@ Ricty Diminished
 - 自動　　
 GitHub Copilot
 
+  自動生成されたコードを選択したいときは　Tab 
+
 - xxx　　
 live server
 
