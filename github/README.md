@@ -58,3 +58,9 @@ https://qiita.com/HyunwookPark/items/1d24972dd71612eb81c9
 # forkリポジトリ削除
 
 1. Settings Options の一番下のDelete this repositoryから削除
+
+# そもそもGithubの興味深い機能
+
+## Clonerの数の確認
+
+Insights -> Traffic -> Git clones
