@@ -18,7 +18,7 @@ GitHub Copilot
 - 関数やクラスのコメントフォーマット作成
 　autoDocstring
  
- Pythonファイルでwクォーテーション３つでコメントフォーマット自動生成
+   Pythonファイルでwクォーテーション３つでコメントフォーマット自動生成
 
 - xxx　
 live server
