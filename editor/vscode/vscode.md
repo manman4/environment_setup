@@ -38,6 +38,10 @@ EJS language support
 
 code が使える
 
+```
+code *
+```
+
 - Mac
 
 以下の設定が必要
@@ -47,6 +51,10 @@ Visual Studio Codeを起動
 コマンドパレットを開く(cmd+shift+p)
 
 "Shell Command: Install 'code' command in PATH"を選択
+
+```
+% code *
+```
 
 ## terminal
 
