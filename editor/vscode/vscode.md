@@ -26,6 +26,12 @@ live server
 - EJS　
 EJS language support
 
+- Excel
+Excel Viewer
+
+- 全角
+zenkaku
+
 ## 便利な設定
 
 "editor.guides.bracketPairs": true
