@@ -8,6 +8,8 @@
 | Shift + Alt + ↓ | | 連続コピー |
 | Ctrl + Shift + F | | インデントスペース調整 |
 | Ctrl + F | command + F | 検索 |
+| |　ommand + ＋ | 画面拡大 | 
+| |　ommand + ー | 画面縮小 | 
 | Alt + Tab | | windowの切り替え |
 | Alt + ←→ | | 画面戻る、進む |
 | Windows + Shift + S |  |  指定した範囲のスクリーンショットを撮影する |
