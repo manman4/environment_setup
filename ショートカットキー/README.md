@@ -5,7 +5,7 @@
 | ----- | ----- | ----- | 
 | F5 | | 更新 |
 | F12 | | 定義へ移動 |
-| Shift + Alt + ↓ | | 連続コピー |
+| Alt + Shift + ↓ | Option + Shift + ↓ | 連続コピー |
 | Ctrl + Shift + F | | インデントスペース調整 |
 | Ctrl + F |　command + F | 検索 |
 | |　command + ＋ | 画面拡大 | 
