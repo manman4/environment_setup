@@ -7,7 +7,7 @@
 | F12 | | 定義へ移動 |
 | Shift + Alt + ↓ | | 連続コピー |
 | Ctrl + Shift + F | | インデントスペース調整 |
-| Ctrl + F | command + F | 検索 |
+| Ctrl + F |　command + F | 検索 |
 | |　command + ＋ | 画面拡大 | 
 | |　command + ー | 画面縮小 | 
 | Alt + Tab | | windowの切り替え |
