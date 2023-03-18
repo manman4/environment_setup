@@ -13,3 +13,12 @@ https://portal.aws.amazon.com/billing/signup
 5.IAMユーザ設定
 
 6.請求アラート
+
+
+MFA 機種変更
+
+1.rootの場合、名前から
+
+2.Iamの場合、Iamからユーザを探して
+
+
