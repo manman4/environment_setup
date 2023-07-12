@@ -67,3 +67,8 @@ Sourcetreeの設定からSSHでないリポジトリをSSHに変更できる。
 元々アカウントでSSHがうまくいっていなかったら、上記を行ってもpushできない。
 
 （例えばアカウントで公開キーのアップロードの失敗等続くとき、）最終手段として、Sourcetreeをインストールしなおしてから、リポジトリをSSHに変更してみる。
+
+
+23/7/12
+
+https://qiita.com/unsoluble_sugar/items/14bea376d8e6fce82eb3
