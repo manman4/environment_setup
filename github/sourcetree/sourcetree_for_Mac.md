@@ -22,6 +22,19 @@ git config --list | grep core.filemode
 
 一からgithubを引っ張ってくる方が楽かもしれない
 
+
+## Githubで'Untracked files'がどうにも消えない時の対応
+
+https://qiita.com/nobucook/items/b83464e50c1b27255317
+
+
+1. git clean -dfn　→　git clean -dfしたときの未追跡の変更差分（Untracked files）がどうなるかの確認。
+
+2. git clean -df
+
+
+
+
 ## GitHub等のパスワードを変更したとき
 
 キーチェーンアクセスを開きSourtreeで検索し対象のアカウントを削除

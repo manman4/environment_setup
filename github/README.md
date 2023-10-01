@@ -64,3 +64,8 @@ https://qiita.com/HyunwookPark/items/1d24972dd71612eb81c9
 ## Clonerの数の確認
 
 Insights -> Traffic -> Git clones
+
+
+
+
+

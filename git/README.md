@@ -12,3 +12,6 @@ git pull
 
 
 git stash pop
+
+
+
