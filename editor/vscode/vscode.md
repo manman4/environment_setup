@@ -14,6 +14,8 @@ Ricty Diminished　を設定のFont Familyに指定してやる
 GitHub Copilot
 
 　　　自動生成されたコードを選択したいときは　Tab 
+
+　　　pari/gpはサジェストしないので、プレインテキストを有効にしておく。
    
 - 関数やクラスのコメントフォーマット作成
 　autoDocstring
