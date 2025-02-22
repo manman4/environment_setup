@@ -1,4 +1,4 @@
-Google日本語入力       日本語入力
+Google日本語入力       日本語入力　　（参考）　https://itbenricho.jp/mac-google-nhongo-nyuryoku.html
 
 Create File Menu      ファイル作成等
 
