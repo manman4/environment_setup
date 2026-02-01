@@ -1,5 +1,9 @@
-便利な機能
+# 便利な機能
 
-cls
+## コマンド
 
-https://twitter.com/ergunsh/status/1629122033765195776
+- `cls` - ターミナルをクリアするコマンド
+
+## 参考リンク
+
+- [関連ツイート](https://twitter.com/ergunsh/status/1629122033765195776)
