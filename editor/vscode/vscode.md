@@ -1,79 +1,72 @@
+# VSCode
+
 ## 便利な拡張機能
 
-- 改行　　
-code-eol
+- **改行**
+  - code-eol
 
-- プログラミングフォント　
-Ricty Diminished　を設定のFont Familyに指定してやる
+- **プログラミングフォント**
+  - Ricty Diminished を設定のFont Familyに指定してやる
+  - macの場合のフォントのダウンロードは例えば、以下を参照
+    - https://hajipro.com/local-development-environment-mac/ricty-diminished
 
-　　　macの場合のフォントのダウンロードは例えば、以下を参照
+- **自動補完**
+  - GitHub Copilot
+  - 自動生成されたコードを選択したいときは Tab
+  - pari/gpはサジェストしないので、プレインテキストを有効にしておく。
 
-　　　https://hajipro.com/local-development-environment-mac/ricty-diminished
-   
-- 自動　
-GitHub Copilot
+- **関数やクラスのコメントフォーマット作成**
+  - autoDocstring
+  - Pythonファイルでwクォーテーション３つでコメントフォーマット自動生成
 
-　　　自動生成されたコードを選択したいときは　Tab 
+- **Webサーバー**
+  - live server
 
-　　　pari/gpはサジェストしないので、プレインテキストを有効にしておく。
-   
-- 関数やクラスのコメントフォーマット作成
-　autoDocstring
- 
-　　　Pythonファイルでwクォーテーション３つでコメントフォーマット自動生成
+- **EJS**
+  - EJS language support
 
-- xxx　
-live server
+- **Excel**
+  - Excel Viewer
 
-- EJS　
-EJS language support
-
-- Excel　
-Excel Viewer
-
-- 全角　
-zenkaku
+- **全角スペース検出**
+  - zenkaku
 
 ## 便利な設定
 
+```json
 "editor.guides.bracketPairs": true
+```
 
 ## vscode 立ち上げ
 
-- Windows
+### Windows
 
-おそらく何もしなくても
+おそらく何もしなくても code が使える
 
-code が使える
-
-```
+```bash
 code *
 ```
 
-- Mac
+### Mac
 
 以下の設定が必要
 
-Visual Studio Codeを起動
+1. Visual Studio Codeを起動
+2. コマンドパレットを開く(cmd+shift+p)
+3. "Shell Command: Install 'code' command in PATH"を選択
 
-コマンドパレットを開く(cmd+shift+p)
-
-"Shell Command: Install 'code' command in PATH"を選択
-
-```
+```bash
 % code *
 ```
 
 ## terminal
 
-- Mac
+### Mac
 
-control + shift　+　` 
+control + shift + `
 
 ## jupyter notebookを使う
 
 拡張機能　Python for VSCode をインストール
 
-コマンドパレットでjupyter: cretate new blank notebookで新規作成できる。　（ググると、違うコマンドすぐにヒットする）
-
-
+コマンドパレットでjupyter: cretate new blank notebookで新規作成できる。（ググると、違うコマンドすぐにヒットする）

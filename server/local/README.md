@@ -2,10 +2,12 @@
 
 ## npm で http-server をインストールする
 
+```bash
 $ npm install -g http-server
 $ http-server --version
 $ cd [起動したいディレクトリ]
 $ http-server
+```
 
 ## vscode で live server を使う
 

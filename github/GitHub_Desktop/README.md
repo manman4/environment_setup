@@ -1,4 +1,5 @@
 # 使い方
 
-pullしたいとき　Fetch orginから
+## Pull の実行方法
 
+pullしたいときは「Fetch origin」から実行

@@ -4,14 +4,10 @@
 
 一度全てcommit
 
-
+```bash
 git stash save
-
 
 git pull
 
-
 git stash pop
-
-
-
+```
